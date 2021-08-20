@@ -30,7 +30,7 @@ services:
       - "8:80"
       - "443:443"
     volumes:
-      - ./:/var/www
+      - ./app/public:/var/www/public
       - ./app.conf:/etc/nginx/conf.d/app.conf
     networks:
       - server-network

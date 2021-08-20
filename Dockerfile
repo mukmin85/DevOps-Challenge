@@ -36,6 +36,9 @@ DO useradd -u 1000 -ms /bin/bash -g www www
 # Copy existing application directory contents
 COPY . /var/www/
 
+# import your packages and create the vendor folder
+RUN composer install
+
 # Copy existing application directory permissions
 COPY --chown=www:www . /var/www/
 
