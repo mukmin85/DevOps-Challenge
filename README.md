@@ -5,6 +5,7 @@ The application code itself has been sourced from https://github.com/laravel/lar
 
 For more information about the content about the challenge itself, please reach out to your hiring manager.
 
-## Open positions
+## Requirement to success
 
-For more information about working for iPrice, please view our Careers page: https://ipricegroup.com/career.html
+Environment = WSL2 + Docker Desktop
+Tools = git, curl, terraform, docker, docker-compose
