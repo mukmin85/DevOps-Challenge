@@ -14,13 +14,19 @@ The Developer Team has decided to use PHP Laravel framework as the major program
 Requirement :
 
 1. Provision Public Cloud resoures
+
 a. The application should be reachable over the internet on port 80
+
 b. Compute should not be accessible by public
+
 c. Able to ssh to compute for temporary
 
 2. Kindly include in README file
+
 a. Step to provision the infrastructure
+
 b. Step to build the and deploy the application
+
 c. Any details changes you performed to the provided source code
 
 3. Send us your code with documentation as tarball
