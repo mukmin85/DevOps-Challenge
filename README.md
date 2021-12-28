@@ -48,6 +48,7 @@ root@xnb135-wsl:/home/DevOps-Challenge# docker-compose images
 root@xnb135-wsl:/home/DevOps-Challenge# docker-compose ps
 
 root@xnb135-wsl:/home/DevOps-Challenge# curl localhost:443
+
 root@xnb135-wsl:/home/DevOps-Challenge# curl localhost
 
 Access from Browser http://localhost/
