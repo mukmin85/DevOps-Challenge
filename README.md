@@ -9,7 +9,7 @@ User Story :
 
 As Platform (DevOps) Engineer, you received a task to design and create Infrastructure as code (IaC) to deploy containerized application in Public Could (AWS, Azure, etc) provider
 
-The Developer Team has decided to use PHP Laravel framework as the major programming language, hence you are required to set-up a web server to server the application services. The team has provided you a repo with the application code, as well as a Dockerfile and Docker Composefile
+The Developer Team has decided to use PHP Laravel framework as the major programming language, hence you are required to set-up a web server to server the application services. The team has provided you a repo with the application code, as well as a Dockerfile and Docker Compose file
 
 Requirement :
 
