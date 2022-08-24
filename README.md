@@ -1,5 +1,5 @@
 # DevOps-Challenge
-This repo contains the source code used as part of the interview assessment for Platform (DevOps) Engineer role.
+This repo contains the source code used as part of the interview assessment for DevOps Engineer role.
 
 The application code itself has been sourced from https://github.com/laravel/laravel
 
